@@ -9,17 +9,21 @@ A webpage made with JavaScript and JQuery to take in regular numbers as input an
 
 ## Specs
 
+_If greater than 3,999, prompt an alert._
+* Input: "4,000" 
+* Expected Output: "ROMANS HATED THIS NUMBER BECAUSE THEY COULDN'T COUNT THAT HIGH"
+
 _When the numbers 1, 5, 10, 50, 100, 500, 1000 are entered, they will be read as I, V, X, L, C, D, M._
 * Input: "1" 
 * Expected Output: "I"
 
-__
-* Input:
-* Expected Output:
+_If more than three roman numerals in a row, switch to subtraction_
+* Input: 4
+* Expected Output: IV
 
-_sjghsjghjhgjdg_
-* Input:
-* Expected Output:
+_It will separate ones, tens, hundreds, and thousands_
+* Input: 99
+* Expected Output: XCIX
 
 ## Setup/Installation Requirements
 
