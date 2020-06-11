@@ -9,11 +9,11 @@ A webpage made with JavaScript and JQuery to take in regular numbers as input an
 
 ## Specs
 
-_sjghsjghjhgjdg_
-* Input:
-* Expected Output:
+_When the numbers 1, 5, 10, 50, 100, 500, 1000 are entered, they will be read as I, V, X, L, C, D, M._
+* Input: "1" 
+* Expected Output: "I"
 
-_sjghsjghjhgjdg_
+__
 * Input:
 * Expected Output:
 
